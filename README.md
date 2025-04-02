@@ -5,6 +5,7 @@ This project implements a Deep Convolutional Neural Network (CNN) model for reco
 
 ## Contributors
 - Anirudh Gupta
+- Amitanshu Tiwari
 
 ## Problem Statement
 1. **Importance of Medical Image Analysis**: Essential for disease diagnosis, treatment planning, and healthcare automation.
